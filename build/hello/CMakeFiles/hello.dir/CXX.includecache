@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/workspace/cppcode/cpp-code-self-project/hello/hello.cpp
+hello.h
+/root/workspace/cppcode/cpp-code-self-project/hello/hello.h
+
+/root/workspace/cppcode/cpp-code-self-project/hello/hello.h
+stdio.h
+-
+

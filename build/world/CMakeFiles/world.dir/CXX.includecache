@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/workspace/cppcode/cpp-code-self-project/world/world.cpp
+world.h
+/root/workspace/cppcode/cpp-code-self-project/world/world.h
+
+/root/workspace/cppcode/cpp-code-self-project/world/world.h
+stdio.h
+-
+

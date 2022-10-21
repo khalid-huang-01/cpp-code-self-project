@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././hello/hello.h
+stdio.h
+-
+
+.././world/world.h
+stdio.h
+-
+
+/root/workspace/cppcode/cpp-code-self-project/hello/hello.cpp
+hello.h
+/root/workspace/cppcode/cpp-code-self-project/hello/hello.h
+
+/root/workspace/cppcode/cpp-code-self-project/hello/hello.h
+stdio.h
+-
+
+/root/workspace/cppcode/cpp-code-self-project/main.cpp
+iostream
+-
+hello.h
+/root/workspace/cppcode/cpp-code-self-project/hello.h
+world.h
+/root/workspace/cppcode/cpp-code-self-project/world.h
+
+/root/workspace/cppcode/cpp-code-self-project/world/world.cpp
+world.h
+/root/workspace/cppcode/cpp-code-self-project/world/world.h
+
+/root/workspace/cppcode/cpp-code-self-project/world/world.h
+stdio.h
+-
+

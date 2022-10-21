@@ -1,3 +1,1 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\helloworld.dir/objects.a
-D:\programe-software\MinGW-64\mingw64\bin\ar.exe qc CMakeFiles\helloworld.dir/objects.a @CMakeFiles\helloworld.dir\objects1
-D:\programe-software\MinGW-64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\helloworld.dir/objects.a -Wl,--no-whole-archive -o helloworld.exe -Wl,--out-implib,libhelloworld.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\helloworld.dir\linkLibs.rsp
+/usr/bin/c++     CMakeFiles/helloworld.dir/main.cpp.o CMakeFiles/helloworld.dir/hello/hello.cpp.o CMakeFiles/helloworld.dir/world/world.cpp.o  -o helloworld hello/libhello.a world/libworld.a 
