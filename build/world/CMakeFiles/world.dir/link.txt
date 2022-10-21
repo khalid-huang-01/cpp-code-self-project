@@ -1,0 +1,2 @@
+D:\programe-software\MinGW-64\mingw64\bin\ar.exe qc libworld.a CMakeFiles/world.dir/world.cpp.obj
+D:\programe-software\MinGW-64\mingw64\bin\ranlib.exe libworld.a

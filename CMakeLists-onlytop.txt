@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 2.8.3)
+project (helloworld)
+# Add header file include directories
+include_directories(./hello ./world)
+# Add block directories
+set(HELLO_SRC hello/hello.cpp)
+set(WORLD_SRC world/world.cpp)
+# Target
+add_executable(helloworld main.cpp ${HELLO_SRC} ${WORLD_SRC})

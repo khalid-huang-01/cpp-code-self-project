@@ -1,0 +1,9 @@
+D:/workspace/cppcode/cpp-code-self-project/build/CMakeFiles/helloworld.dir
+D:/workspace/cppcode/cpp-code-self-project/build/CMakeFiles/edit_cache.dir
+D:/workspace/cppcode/cpp-code-self-project/build/CMakeFiles/rebuild_cache.dir
+D:/workspace/cppcode/cpp-code-self-project/build/hello/CMakeFiles/hello.dir
+D:/workspace/cppcode/cpp-code-self-project/build/hello/CMakeFiles/edit_cache.dir
+D:/workspace/cppcode/cpp-code-self-project/build/hello/CMakeFiles/rebuild_cache.dir
+D:/workspace/cppcode/cpp-code-self-project/build/world/CMakeFiles/world.dir
+D:/workspace/cppcode/cpp-code-self-project/build/world/CMakeFiles/edit_cache.dir
+D:/workspace/cppcode/cpp-code-self-project/build/world/CMakeFiles/rebuild_cache.dir
